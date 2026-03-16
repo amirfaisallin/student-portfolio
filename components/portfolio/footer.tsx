@@ -42,11 +42,8 @@ export function Footer() {
           </div>
 
           <div className="text-sm text-muted-foreground">
-            <p className="flex items-center justify-center gap-1">
-              Made with <Heart className="w-4 h-4 text-rose-500 fill-rose-500" /> by Alex Morgan
-            </p>
             <p className="mt-2">
-              &copy; {new Date().getFullYear()} All rights reserved.
+              &copy; {new Date().getFullYear()} All rights reserved by @Amir Faisal Linkon
             </p>
           </div>
         </div>
